@@ -877,7 +877,14 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7":
+"@babel/runtime@^7.5.5", "@babel/runtime@^7.8.7":
+  version "7.10.5"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.5.tgz#303d8bd440ecd5a491eae6117fd3367698674c5c"
+  integrity sha512-otddXKhdNn7d0ptoFRHtMLa8LqDxLYwTjB4nYgM1yy5N6gU/MUf8zqyyLltCH3yAVitBzmwK4us+DD0l/MauAg==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
+"@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
   version "7.10.4"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.4.tgz#a6724f1a6b8d2f6ea5236dbfe58c7d7ea9c5eb99"
   integrity sha512-UpTN5yUJr9b4EX2CnGNWIvER7Ab83ibv0pcvvHc4UOdrBI5jb8bj+32cCwPX6xu0mt2daFNjYhoi+X7beH0RSw==
@@ -5337,15 +5344,17 @@ unicode-property-aliases-ecmascript@^1.0.4:
   resolved "https://registry.yarnpkg.com/unicode-property-aliases-ecmascript/-/unicode-property-aliases-ecmascript-1.1.0.tgz#dd57a99f6207bedff4628abefb94c50db941c8f4"
   integrity sha512-PqSoPh/pWetQ2phoj5RLiaqIk4kCNwoV3CI+LfGmWLKI3rE3kl1h59XpX2BjgDrmbxD9ARtQobPGU1SguCYuQg==
 
-"unify-react-desktop@file:../../../../unify-react-desktop-0.3.2-dev-1.tgz":
-  version "0.3.2-dev-1"
-  resolved "file:../../../../unify-react-desktop-0.3.2-dev-1.tgz#c93543deff17edec30e9f1b56cc9e7b110964963"
+unify-react-desktop@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/unify-react-desktop/-/unify-react-desktop-0.3.2.tgz#8d3b9bd9232cbdb0e654b864c19e1785ba2e7645"
+  integrity sha512-75guck+i4v2zKAc9W8hIyRE794DvsgYyDnjA+5Dv+MYL4z3LQnxof0ktosOqWmvoSZ40AIJ2Dj6RRvmofUY13w==
   dependencies:
     react-transition-group "^4.2.1"
 
-unify-react-mobile@/Users/miftakribo/unify-react-mobile-v3.10.4.tgz:
+unify-react-mobile@^3.10.4:
   version "3.10.4"
-  resolved "/Users/miftakribo/unify-react-mobile-v3.10.4.tgz#0d326263d7dc9583297b1e8bb1376386484e50e2"
+  resolved "https://registry.yarnpkg.com/unify-react-mobile/-/unify-react-mobile-3.10.4.tgz#5fa73a4512d2d80c3d837741ef332ac53d51821d"
+  integrity sha512-0KMFplqWN05HGOkZg7b6jc4WQo0Pn3M2mtWEU+xrExv8vvDRE9+lkAAiuSnrzq5JL2RYmcTrcdD+SI4SmFcmRQ==
   dependencies:
     invariant "^2.2.4"
     unify-token "^1.7.0"
