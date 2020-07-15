@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "emotion": "9.2.12",
+    "esm": "^3.2.25",
+    "fbjs": "^1.0.0",
+    "gensync": "^1.0.0-beta.1",
     "next": "9.3.5",
+    "next-transpile-modules": "^3.3.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-emotion": "9.2.12",
+    "unify-react-desktop": "/Users/miftakribo/unify-react-desktop-0.3.2-dev-1.tgz",
+    "unify-react-mobile": "/Users/miftakribo/unify-react-mobile-v3.10.4.tgz",
+    "unify-token": "^1.7.1-dev-1",
+    "url-loader": "^4.1.0"
   }
 }
