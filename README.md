@@ -1,8 +1,8 @@
-Check your component SSR compability
+Check your unify component SSR compability
 
-## Install local package
+## Install your unify local package
 
-- in your package dir:
+- in your unify package dir:
 
 ```
 > yarn build
@@ -15,3 +15,10 @@ Check your component SSR compability
 ```
 > yarn add ~/[generated-pack].tgz
 ```
+
+## Test your unify component
+
+- create story file on `pages/stories/[package]/[story-name].js
+- run `yarn dev`
+- open `localhost:3000/stories/[package]/[story-name]`
+- if there is no error, your component is ssr ready
