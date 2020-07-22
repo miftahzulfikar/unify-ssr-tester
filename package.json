@@ -17,7 +17,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-emotion": "9.2.12",
-    "unify-react-desktop": "^0.3.2",
+    "unify-react-desktop": "/Users/miftakribo/unify-react-desktop-v0.3.2.tgz",
     "unify-react-mobile": "^3.10.4",
     "unify-token": "^1.7.1-dev-1",
     "url-loader": "^4.1.0"
